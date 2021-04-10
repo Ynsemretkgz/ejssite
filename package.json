@@ -1,0 +1,29 @@
+{
+  "name": "website",
+  "version": "0.0.1",
+  "description": "An empty project for now",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adebowale35/Website.git"
+  },
+  "author": "Felixx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Adebowale35/Website/issues"
+  },
+  "homepage": "https://github.com/Adebowale35/Website#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "chalk": "^2.4.2",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "wio.db": "^4.0.17"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
